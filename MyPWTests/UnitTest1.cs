@@ -43,7 +43,7 @@ namespace MyPWTests
 
             if (expectedTitle == actualTitle)
             {
-                Console.WriteLine("It's the correct title.");
+                Console.WriteLine("It's the correct title. Test passed");
             }
             else
             {
