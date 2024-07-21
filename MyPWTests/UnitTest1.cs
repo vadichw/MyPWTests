@@ -47,7 +47,7 @@ namespace MyPWTests
             }
             else
             {
-                Console.WriteLine($"It's the incorrect title. Found title is {actualTitle}");
+                Console.WriteLine($"It's the incorrect title. Found title is: {actualTitle}");
 
             }
         }
