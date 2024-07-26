@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MyPWTests"
+    "\\MyPWTests",
+    "\\MyPWTests\\PageObjects",
+    "\\MyPWTests\\Tests"
   ],
-  "SelectedNode": "\\MyPWTests\\UnitTest1.cs",
+  "SelectedNode": "\\MyPWTests\\Tests\\CartTests.cs",
   "PreviewInSolutionExplorer": false
 }

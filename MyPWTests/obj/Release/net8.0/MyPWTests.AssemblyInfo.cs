@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyPWTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d217b4d6a3a9f310e6586b34a6e283241abff9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+368093928f28d63d2ecc6833a9f0fac22d1720aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyPWTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyPWTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
